@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.corporate-semantic-web.de/ontologies/aspect/owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfg" IRI="http://www.w3.org/2004/03/trix/rdfg-1/"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Advice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Aspect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pointcut"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#advises"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasAdvice"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasAspect"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasPointcut"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isPointcutOf"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#advises"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasAdvice"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasAspect"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#hasPointcut"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#isPointcutOf"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#Aspect"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasAdvice"/>
+            <Class IRI="#Advice"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Aspect"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPointcut"/>
+            <Class IRI="#Pointcut"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#advises"/>
+        <ObjectProperty IRI="#hasAdvice"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasAdvice"/>
+        <ObjectProperty IRI="#hasAspect"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#isPointcutOf"/>
+        <ObjectProperty IRI="#hasPointcut"/>
+    </InverseObjectProperties>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasAdvice"/>
+        <Class IRI="#Aspect"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasAspect"/>
+        <Class IRI="#Advice"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasPointcut"/>
+        <Class IRI="#Aspect"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasAdvice"/>
+        <Class IRI="#Advice"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasAspect"/>
+        <Class IRI="#Aspect"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasPointcut"/>
+        <Class IRI="#Pointcut"/>
+    </ObjectPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hasAspect</IRI>
+        <Literal xml:lang="en" datatypeIRI="&rdf;PlainLiteral">Retained for backwards compatibility. Use hasAdvice and hasPointcut instead.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="owl:deprecated"/>
+        <IRI>#hasAspect</IRI>
+        <Literal datatypeIRI="&xsd;boolean">true</Literal>
+    </AnnotationAssertion>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#hasAdvice"/>
+        <IRI>#Advice</IRI>
+    </AnnotationPropertyRange>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#hasAspect"/>
+        <IRI>#Aspect</IRI>
+    </AnnotationPropertyRange>
+    <AnnotationPropertyRange>
+        <AnnotationProperty IRI="#hasPointcut"/>
+        <IRI>#Pointcut</IRI>
+    </AnnotationPropertyRange>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty IRI="#hasAdvice"/>
+        <IRI>#Aspect</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty IRI="#hasAspect"/>
+        <IRI>#Pointcut</IRI>
+    </AnnotationPropertyDomain>
+    <AnnotationPropertyDomain>
+        <AnnotationProperty IRI="#hasPointcut"/>
+        <IRI>#Aspect</IRI>
+    </AnnotationPropertyDomain>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+
