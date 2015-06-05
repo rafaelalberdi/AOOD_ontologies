@@ -1,0 +1,24 @@
+@prefix : <http://www.example.org/aspect123#> .
+@prefix this: <http://www.example.org/aspect123> .
+@prefix aspect: <http://www.corporate-semantic-web.de/ontologies/aspect/rdf#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix dbpedia_prop: <http://dbpedia.org/property/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+
+this: {
+    this: a aspect:Aspect .
+        aspect:hasPointcut :pointcut .
+        aspect:hasAdvice :advice .
+}
+
+:pointcut {
+    dbpedia:Barack_Obama dbpedia_prop:spouse dbpedia:Michelle_Obama.
+}
+
+:advice {
+    :pointcut prov:generatedAtTime "2004-07-29T10:38:00Z"^^xsd:dateTime .
+    :pointcut prov:entity <http://de.wikipedia.org/wiki/Barack_Obama>
+    :pointcut prov:wasAttributedTo _:a .
+    _:a foaf:homepage <http://de.wikipedia.org/wiki/user:wikipediauser123>
+}
