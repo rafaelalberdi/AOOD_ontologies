@@ -1,0 +1,23 @@
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals>
+
+Declaration(Class(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Capital>))
+Declaration(Class(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#City>))
+Declaration(Class(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Country>))
+Declaration(ObjectProperty(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#capitalOf>))
+Declaration(NamedIndividual(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Berlin>))
+Declaration(NamedIndividual(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Bonn>))
+Declaration(NamedIndividual(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Germany>))
+EquivalentClasses(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Capital> ObjectIntersectionOf(ObjectSomeValuesFrom(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#capitalOf> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Country>) <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#City>))
+ClassAssertion(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#City> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Berlin>)
+ObjectPropertyAssertion(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#capitalOf> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Berlin> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Germany>)
+ClassAssertion(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#City> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Bonn>)
+ObjectPropertyAssertion(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#capitalOf> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Bonn> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Germany>)
+ClassAssertion(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Country> <http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals#Germany>)
+)

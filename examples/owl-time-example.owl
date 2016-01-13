@@ -1,0 +1,17 @@
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.csw.inf.fu-berlin.de/ontologies/temporalAspectExample>
+Import(<http://www.csw.inf.fu-berlin.de/ontologies/aood/demo/capitals>)
+Import(<http://www.corporate-semantic-web.de/ontologies/aspect/owl>)
+Import(<http://www.w3.org/2006/time>)
+
+Declaration(Class(<http://www.csw.inf.fu-berlin.de/ontologies/temporalAspectExample#PostWW2WestGermany>))
+Declaration(Class(<http://www.csw.inf.fu-berlin.de/ontologies/temporalAspectExample#TemporalAspect>))
+SubClassOf(<http://www.csw.inf.fu-berlin.de/ontologies/temporalAspectExample#PostWW2WestGermany> <http://www.csw.inf.fu-berlin.de/ontologies/temporalAspectExample#TemporalAspect>)
+SubClassOf(<http://www.csw.inf.fu-berlin.de/ontologies/temporalAspectExample#TemporalAspect> <http://www.corporate-semantic-web.de/ontologies/aspect/owl#Aspect>)
+)
