@@ -1187,7 +1187,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Afghanistan"/>
@@ -1195,7 +1195,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Albania"/>
@@ -1203,7 +1203,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Algeria"/>
@@ -1211,7 +1211,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Andorra"/>
@@ -1219,7 +1219,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Angola"/>
@@ -1227,7 +1227,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Antigua_and_Barbuda"/>
@@ -1235,7 +1235,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Argentina"/>
@@ -1243,7 +1243,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Armenia"/>
@@ -1251,7 +1251,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Australia"/>
@@ -1259,7 +1259,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Austria"/>
@@ -1267,7 +1267,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Azerbaijan"/>
@@ -1275,7 +1275,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bahamas_the"/>
@@ -1283,7 +1283,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bahrain"/>
@@ -1291,7 +1291,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bangladesh"/>
@@ -1299,7 +1299,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Barbados"/>
@@ -1307,7 +1307,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Belarus"/>
@@ -1315,7 +1315,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Belgium"/>
@@ -1323,7 +1323,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Belize"/>
@@ -1331,7 +1331,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Benin"/>
@@ -1339,7 +1339,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bhutan"/>
@@ -1347,7 +1347,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bolivia"/>
@@ -1355,7 +1355,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bosnia_and_Herzegovina"/>
@@ -1363,7 +1363,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Botswana"/>
@@ -1371,7 +1371,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Brazil"/>
@@ -1379,7 +1379,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Brunei_Darussalam"/>
@@ -1387,7 +1387,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Bulgaria"/>
@@ -1395,7 +1395,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Burkina_Faso"/>
@@ -1403,7 +1403,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Burundi"/>
@@ -1411,7 +1411,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Cambodia"/>
@@ -1419,7 +1419,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Cameroon"/>
@@ -1427,7 +1427,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Canada"/>
@@ -1435,7 +1435,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Cape_Verde"/>
@@ -1443,7 +1443,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Central_African_Republic_the"/>
@@ -1451,7 +1451,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Chad"/>
@@ -1459,7 +1459,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Chile"/>
@@ -1467,7 +1467,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#China"/>
@@ -1475,7 +1475,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Colombia"/>
@@ -1483,7 +1483,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Comoros_the"/>
@@ -1491,7 +1491,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Congo_the"/>
@@ -1499,7 +1499,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Costa_Rica"/>
@@ -1507,7 +1507,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Cote_d_Ivoire"/>
@@ -1515,7 +1515,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Croatia"/>
@@ -1523,7 +1523,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Cuba"/>
@@ -1531,7 +1531,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Cyprus"/>
@@ -1539,7 +1539,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Czech_Republic_the"/>
@@ -1547,7 +1547,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Democratic_People_s_Republic_of_Korea_the"/>
@@ -1555,7 +1555,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Democratic_Republic_of_the_Congo"/>
@@ -1563,7 +1563,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Denmark"/>
@@ -1571,7 +1571,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Djibouti"/>
@@ -1579,7 +1579,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Dominica"/>
@@ -1587,7 +1587,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Dominican_Republic_the"/>
@@ -1595,7 +1595,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Ecuador"/>
@@ -1603,7 +1603,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Egypt"/>
@@ -1611,7 +1611,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#El_Salvador"/>
@@ -1619,7 +1619,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Equatorial_Guinea"/>
@@ -1627,7 +1627,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Eritrea"/>
@@ -1635,7 +1635,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Estonia"/>
@@ -1643,7 +1643,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Ethiopia"/>
@@ -1651,7 +1651,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Fiji"/>
@@ -1659,7 +1659,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Finland"/>
@@ -1667,7 +1667,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#France"/>
@@ -1675,7 +1675,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Gabon"/>
@@ -1683,7 +1683,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Gambia__the"/>
@@ -1691,7 +1691,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Georgia"/>
@@ -1699,7 +1699,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Germany"/>
@@ -1707,7 +1707,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Ghana"/>
@@ -1715,7 +1715,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Greece"/>
@@ -1723,7 +1723,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Grenada"/>
@@ -1731,7 +1731,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Guatemala"/>
@@ -1739,7 +1739,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Guinea"/>
@@ -1747,7 +1747,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Guinea-Bissau"/>
@@ -1755,7 +1755,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Guyana"/>
@@ -1763,7 +1763,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Haiti"/>
@@ -1771,7 +1771,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Honduras"/>
@@ -1779,7 +1779,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Hungary"/>
@@ -1787,7 +1787,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Iceland"/>
@@ -1795,7 +1795,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#India"/>
@@ -1803,7 +1803,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Indonesia"/>
@@ -1811,7 +1811,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Iran_Islamic_Rep_of_"/>
@@ -1819,7 +1819,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Iraq"/>
@@ -1827,7 +1827,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Ireland"/>
@@ -1835,7 +1835,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Israel"/>
@@ -1843,7 +1843,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Italy"/>
@@ -1851,7 +1851,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Jamaica"/>
@@ -1859,7 +1859,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Japan"/>
@@ -1867,7 +1867,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Jordan"/>
@@ -1875,7 +1875,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Kazakhstan"/>
@@ -1883,7 +1883,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Kenya"/>
@@ -1891,7 +1891,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Kiribati"/>
@@ -1899,7 +1899,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Kuwait"/>
@@ -1907,7 +1907,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Kyrgyzstan"/>
@@ -1915,7 +1915,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Lao_People_s_Democratic_Republic__the"/>
@@ -1923,7 +1923,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Latvia"/>
@@ -1931,7 +1931,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Lebanon"/>
@@ -1939,7 +1939,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Lesotho"/>
@@ -1947,7 +1947,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Liberia"/>
@@ -1955,7 +1955,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Libyan_Arab_Jamahiriya__the"/>
@@ -1963,7 +1963,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Liechtenstein"/>
@@ -1971,7 +1971,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Lithuania"/>
@@ -1979,7 +1979,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Luxembourg"/>
@@ -1987,7 +1987,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Madagascar"/>
@@ -1995,7 +1995,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Malawi"/>
@@ -2003,7 +2003,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Malaysia"/>
@@ -2011,7 +2011,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Maldives"/>
@@ -2019,7 +2019,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Mali"/>
@@ -2027,7 +2027,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Malta"/>
@@ -2035,7 +2035,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Marshall_Islands__the"/>
@@ -2043,7 +2043,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Mauritania"/>
@@ -2051,7 +2051,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Mauritius"/>
@@ -2059,7 +2059,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Mexico"/>
@@ -2067,7 +2067,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Micronesia__Fed_States_of_"/>
@@ -2075,7 +2075,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Monaco"/>
@@ -2083,7 +2083,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Mongolia"/>
@@ -2091,7 +2091,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Montenegro"/>
@@ -2099,7 +2099,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Morocco"/>
@@ -2107,7 +2107,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Mozambique"/>
@@ -2115,7 +2115,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Myanmar"/>
@@ -2123,7 +2123,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Namibia"/>
@@ -2131,7 +2131,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Nauru"/>
@@ -2139,7 +2139,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Nepal"/>
@@ -2147,7 +2147,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Netherlands_the"/>
@@ -2155,7 +2155,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#New_Zealand"/>
@@ -2163,7 +2163,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Nicaragua"/>
@@ -2171,7 +2171,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Niger_the"/>
@@ -2179,7 +2179,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Nigeria"/>
@@ -2187,7 +2187,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Norway"/>
@@ -2195,7 +2195,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Oman"/>
@@ -2203,7 +2203,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Pakistan"/>
@@ -2211,7 +2211,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Palau"/>
@@ -2219,7 +2219,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Panama"/>
@@ -2227,7 +2227,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Papua_New_Guinea"/>
@@ -2235,7 +2235,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Paraguay"/>
@@ -2243,7 +2243,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Peru"/>
@@ -2251,7 +2251,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Philippines__the"/>
@@ -2259,7 +2259,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Poland"/>
@@ -2267,7 +2267,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Portugal"/>
@@ -2275,7 +2275,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Qatar"/>
@@ -2283,7 +2283,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Republic_of_Korea__the"/>
@@ -2291,7 +2291,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Republic_of_Moldova"/>
@@ -2299,7 +2299,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Romania"/>
@@ -2307,7 +2307,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Russian_Federation__the"/>
@@ -2315,7 +2315,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Rwanda"/>
@@ -2323,7 +2323,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Saint_Kitts_and_Nevis"/>
@@ -2331,7 +2331,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Saint_Lucia"/>
@@ -2339,7 +2339,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Saint_Vincent_and_the_Grenadines"/>
@@ -2347,7 +2347,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Samoa"/>
@@ -2355,7 +2355,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#San_Marino"/>
@@ -2363,7 +2363,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Sao_Tome_and_Principe"/>
@@ -2371,7 +2371,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Saudi_Arabia"/>
@@ -2379,7 +2379,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Senegal"/>
@@ -2387,7 +2387,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Serbia"/>
@@ -2395,7 +2395,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Seychelles"/>
@@ -2403,7 +2403,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Sierra_Leone"/>
@@ -2411,7 +2411,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Singapore"/>
@@ -2419,7 +2419,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Slovakia"/>
@@ -2427,7 +2427,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Slovenia"/>
@@ -2435,7 +2435,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Solomon_Islands"/>
@@ -2443,7 +2443,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Somalia"/>
@@ -2451,7 +2451,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#South_Africa"/>
@@ -2459,7 +2459,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Spain"/>
@@ -2467,7 +2467,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Sri_Lanka"/>
@@ -2475,7 +2475,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Sudan_the"/>
@@ -2483,7 +2483,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Suriname"/>
@@ -2491,7 +2491,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Swaziland"/>
@@ -2499,7 +2499,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Sweden"/>
@@ -2507,7 +2507,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Switzerland"/>
@@ -2515,7 +2515,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Syrian_Arab_Republic_the"/>
@@ -2523,7 +2523,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Tajikistan"/>
@@ -2531,7 +2531,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Thailand"/>
@@ -2539,7 +2539,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#The_former_Yugoslav_Republic_of_Macedonia"/>
@@ -2547,7 +2547,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Timor-Leste"/>
@@ -2555,7 +2555,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Togo"/>
@@ -2563,7 +2563,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Tonga"/>
@@ -2571,7 +2571,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Trinidad_and_Tobago"/>
@@ -2579,7 +2579,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Tunisia"/>
@@ -2587,7 +2587,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Turkey"/>
@@ -2595,7 +2595,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Turkmenistan"/>
@@ -2603,7 +2603,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Tuvalu"/>
@@ -2611,7 +2611,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Uganda"/>
@@ -2619,7 +2619,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Ukraine"/>
@@ -2627,7 +2627,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#United_Arab_Emirates__the"/>
@@ -2635,7 +2635,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#United_Kingdom_of_Great_Britain_and_Northern_Ireland__the"/>
@@ -2643,7 +2643,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#United_Republic_of_Tanzania__the"/>
@@ -2651,7 +2651,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#United_States_of_America"/>
@@ -2659,7 +2659,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Uruguay"/>
@@ -2667,7 +2667,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Uzbekistan"/>
@@ -2675,7 +2675,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Vanuatu"/>
@@ -2683,7 +2683,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Venezuela"/>
@@ -2691,7 +2691,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Viet_Nam"/>
@@ -2699,7 +2699,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Yemen"/>
@@ -2707,7 +2707,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Zambia"/>
@@ -2715,7 +2715,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#obo</IRI>
+            <IRI>#obo</IRI>
         </Annotation>
         <Class IRI="http://purl.obolibrary.org/obo/GEO_000000003"/>
         <NamedIndividual IRI="http://aims.fao.org/aos/geopolitical.owl#Zimbabwe"/>
@@ -2723,7 +2723,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000024"/>
@@ -2731,7 +2731,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000027"/>
@@ -2739,7 +2739,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000028"/>
@@ -2747,7 +2747,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000030"/>
@@ -2755,7 +2755,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000031"/>
@@ -2763,7 +2763,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000034"/>
@@ -2771,7 +2771,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000035"/>
@@ -2779,7 +2779,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000036"/>
@@ -2787,7 +2787,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000039"/>
@@ -2795,7 +2795,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000040"/>
@@ -2803,7 +2803,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000041"/>
@@ -2811,7 +2811,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000042"/>
@@ -2819,7 +2819,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000043"/>
@@ -2827,7 +2827,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000044"/>
@@ -2835,7 +2835,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000045"/>
@@ -2843,7 +2843,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000046"/>
@@ -2851,7 +2851,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000047"/>
@@ -2859,7 +2859,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000048"/>
@@ -2867,7 +2867,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000049"/>
@@ -2875,7 +2875,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000051"/>
@@ -2883,7 +2883,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000052"/>
@@ -2891,7 +2891,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000054"/>
@@ -2899,7 +2899,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000055"/>
@@ -2907,7 +2907,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000056"/>
@@ -2915,7 +2915,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000058"/>
@@ -2923,7 +2923,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000059"/>
@@ -2931,7 +2931,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000060"/>
@@ -2939,7 +2939,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000061"/>
@@ -2947,7 +2947,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000062"/>
@@ -2955,7 +2955,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000063"/>
@@ -2963,7 +2963,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000064"/>
@@ -2971,7 +2971,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000065"/>
@@ -2979,7 +2979,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000067"/>
@@ -2987,7 +2987,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000068"/>
@@ -2995,7 +2995,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000070"/>
@@ -3003,7 +3003,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000071"/>
@@ -3011,7 +3011,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000075"/>
@@ -3019,7 +3019,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000076"/>
@@ -3027,7 +3027,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000077"/>
@@ -3035,7 +3035,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000079"/>
@@ -3043,7 +3043,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000080"/>
@@ -3051,7 +3051,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000081"/>
@@ -3059,7 +3059,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000082"/>
@@ -3067,7 +3067,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000084"/>
@@ -3075,7 +3075,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000085"/>
@@ -3083,7 +3083,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000086"/>
@@ -3091,7 +3091,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000087"/>
@@ -3099,7 +3099,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000088"/>
@@ -3107,7 +3107,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000089"/>
@@ -3115,7 +3115,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000090"/>
@@ -3123,7 +3123,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000091"/>
@@ -3131,7 +3131,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000092"/>
@@ -3139,7 +3139,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000093"/>
@@ -3147,7 +3147,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000094"/>
@@ -3155,7 +3155,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000095"/>
@@ -3163,7 +3163,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000096"/>
@@ -3171,7 +3171,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000097"/>
@@ -3179,7 +3179,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000098"/>
@@ -3187,7 +3187,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000102"/>
@@ -3195,7 +3195,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000103"/>
@@ -3203,7 +3203,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000104"/>
@@ -3211,7 +3211,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000109"/>
@@ -3219,7 +3219,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000110"/>
@@ -3227,7 +3227,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000111"/>
@@ -3235,7 +3235,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000112"/>
@@ -3243,7 +3243,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000113"/>
@@ -3251,7 +3251,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000115"/>
@@ -3259,7 +3259,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000117"/>
@@ -3267,7 +3267,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000120"/>
@@ -3275,7 +3275,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000123"/>
@@ -3283,7 +3283,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000124"/>
@@ -3291,7 +3291,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000125"/>
@@ -3299,7 +3299,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000126"/>
@@ -3307,7 +3307,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000128"/>
@@ -3315,7 +3315,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000129"/>
@@ -3323,7 +3323,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000130"/>
@@ -3331,7 +3331,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000131"/>
@@ -3339,7 +3339,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000132"/>
@@ -3347,7 +3347,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000133"/>
@@ -3355,7 +3355,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000134"/>
@@ -3363,7 +3363,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000135"/>
@@ -3371,7 +3371,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000137"/>
@@ -3379,7 +3379,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000138"/>
@@ -3387,7 +3387,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000139"/>
@@ -3395,7 +3395,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000140"/>
@@ -3403,7 +3403,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000142"/>
@@ -3411,7 +3411,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000143"/>
@@ -3419,7 +3419,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000144"/>
@@ -3427,7 +3427,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000145"/>
@@ -3435,7 +3435,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000146"/>
@@ -3443,7 +3443,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000147"/>
@@ -3451,7 +3451,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000148"/>
@@ -3459,7 +3459,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000149"/>
@@ -3467,7 +3467,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000150"/>
@@ -3475,7 +3475,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000151"/>
@@ -3483,7 +3483,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000152"/>
@@ -3491,7 +3491,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000153"/>
@@ -3499,7 +3499,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000154"/>
@@ -3507,7 +3507,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000155"/>
@@ -3515,7 +3515,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000156"/>
@@ -3523,7 +3523,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000157"/>
@@ -3531,7 +3531,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000158"/>
@@ -3539,7 +3539,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000159"/>
@@ -3547,7 +3547,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000160"/>
@@ -3555,7 +3555,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000161"/>
@@ -3563,7 +3563,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000162"/>
@@ -3571,7 +3571,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000163"/>
@@ -3579,7 +3579,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000165"/>
@@ -3587,7 +3587,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000166"/>
@@ -3595,7 +3595,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000168"/>
@@ -3603,7 +3603,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000169"/>
@@ -3611,7 +3611,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000170"/>
@@ -3619,7 +3619,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000171"/>
@@ -3627,7 +3627,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000172"/>
@@ -3635,7 +3635,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000174"/>
@@ -3643,7 +3643,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000175"/>
@@ -3651,7 +3651,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000176"/>
@@ -3659,7 +3659,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000177"/>
@@ -3667,7 +3667,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000178"/>
@@ -3675,7 +3675,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000179"/>
@@ -3683,7 +3683,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000180"/>
@@ -3691,7 +3691,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000183"/>
@@ -3699,7 +3699,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000184"/>
@@ -3707,7 +3707,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000185"/>
@@ -3715,7 +3715,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000186"/>
@@ -3723,7 +3723,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000191"/>
@@ -3731,7 +3731,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000194"/>
@@ -3739,7 +3739,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000195"/>
@@ -3747,7 +3747,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000196"/>
@@ -3755,7 +3755,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000197"/>
@@ -3763,7 +3763,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000198"/>
@@ -3771,7 +3771,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000199"/>
@@ -3779,7 +3779,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000200"/>
@@ -3787,7 +3787,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000201"/>
@@ -3795,7 +3795,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000203"/>
@@ -3803,7 +3803,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000204"/>
@@ -3811,7 +3811,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000206"/>
@@ -3819,7 +3819,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000207"/>
@@ -3827,7 +3827,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000208"/>
@@ -3835,7 +3835,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000210"/>
@@ -3843,7 +3843,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000211"/>
@@ -3851,7 +3851,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000212"/>
@@ -3859,7 +3859,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000215"/>
@@ -3867,7 +3867,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000216"/>
@@ -3875,7 +3875,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000219"/>
@@ -3883,7 +3883,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000220"/>
@@ -3891,7 +3891,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000221"/>
@@ -3899,7 +3899,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000222"/>
@@ -3907,7 +3907,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000223"/>
@@ -3915,7 +3915,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000224"/>
@@ -3923,7 +3923,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000225"/>
@@ -3931,7 +3931,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000226"/>
@@ -3939,7 +3939,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000227"/>
@@ -3947,7 +3947,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000228"/>
@@ -3955,7 +3955,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000230"/>
@@ -3963,7 +3963,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000231"/>
@@ -3971,7 +3971,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000232"/>
@@ -3979,7 +3979,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000233"/>
@@ -3987,7 +3987,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000234"/>
@@ -3995,7 +3995,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000235"/>
@@ -4003,7 +4003,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000236"/>
@@ -4011,7 +4011,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000237"/>
@@ -4019,7 +4019,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000238"/>
@@ -4027,7 +4027,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000241"/>
@@ -4035,7 +4035,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000242"/>
@@ -4043,7 +4043,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000243"/>
@@ -4051,7 +4051,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000244"/>
@@ -4059,7 +4059,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000245"/>
@@ -4067,7 +4067,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000246"/>
@@ -4075,7 +4075,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000247"/>
@@ -4083,7 +4083,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000248"/>
@@ -4091,7 +4091,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000249"/>
@@ -4099,7 +4099,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000252"/>
@@ -4107,7 +4107,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000253"/>
@@ -4115,7 +4115,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000254"/>
@@ -4123,7 +4123,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000255"/>
@@ -4131,7 +4131,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000256"/>
@@ -4139,7 +4139,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000258"/>
@@ -4147,7 +4147,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000259"/>
@@ -4155,7 +4155,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000260"/>
@@ -4163,7 +4163,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000261"/>
@@ -4171,7 +4171,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000262"/>
@@ -4179,7 +4179,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000263"/>
@@ -4187,7 +4187,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000264"/>
@@ -4195,7 +4195,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000266"/>
@@ -4203,7 +4203,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000267"/>
@@ -4211,7 +4211,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000268"/>
@@ -4219,7 +4219,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000269"/>
@@ -4227,7 +4227,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000270"/>
@@ -4235,7 +4235,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000273"/>
@@ -4243,7 +4243,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000274"/>
@@ -4251,7 +4251,7 @@
     <ClassAssertion>
         <Annotation>
             <AnnotationProperty IRI="http://www.corporate-semantic-web.de/ontologies/aspect/owl#isPointcutOf"/>
-            <IRI>http://www.corporate-semantic-web.de/ontologies/aspect/owl#fao</IRI>
+            <IRI>#fao</IRI>
         </Annotation>
         <Class IRI="http://aims.fao.org/aos/geopolitical.owl#self_governing"/>
         <NamedIndividual IRI="http://purl.obolibrary.org/obo/GEO_000000275"/>
